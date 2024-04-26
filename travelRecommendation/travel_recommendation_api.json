@@ -1,0 +1,80 @@
+{
+	"countries": [
+		{
+			"id": 1,
+			"name": "Australia",
+			"cities": [
+				{
+					"name": "Sydney, Australia",
+					"imageUrl": "https://fastly.picsum.photos/id/1006/500/300.jpg?hmac=Hc5_fC1MAh99_CKOrvSzkZt--20QzHJ9Kckh23LgbtE",
+					"description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+				},
+				{
+					"name": "Melbourne, Australia",
+					"imageUrl": "https://fastly.picsum.photos/id/1006/500/300.jpg?hmac=Hc5_fC1MAh99_CKOrvSzkZt--20QzHJ9Kckh23LgbtE",
+					"description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Japan",
+			"cities": [
+				{
+					"name": "Tokyo, Japan",
+					"imageUrl": "https://fastly.picsum.photos/id/202/500/300.jpg?hmac=qUuanoet9X5ucoblGpifr_E8O9s3FH_uUMO0S9hSjOI",
+					"description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+				},
+				{
+					"name": "Kyoto, Japan",
+					"imageUrl": "https://fastly.picsum.photos/id/202/500/300.jpg?hmac=qUuanoet9X5ucoblGpifr_E8O9s3FH_uUMO0S9hSjOI",
+					"description": "Known for its historic temples, gardens, and traditional tea houses."
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Brazil",
+			"cities": [
+				{
+					"name": "Rio de Janeiro, Brazil",
+					"imageUrl": "https://fastly.picsum.photos/id/807/500/300.jpg?hmac=onOmKaZ_Ly9-uK2VnGJ7bcBktARfsHQLxe7-3Mzsutw",
+					"description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+				},
+				{
+					"name": "São Paulo, Brazil",
+					"imageUrl": "https://fastly.picsum.photos/id/807/500/300.jpg?hmac=onOmKaZ_Ly9-uK2VnGJ7bcBktARfsHQLxe7-3Mzsutw",
+					"description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+				}
+			]
+		}
+	],
+	"temples": [
+		{
+			"id": 1,
+			"name": "Angkor Wat, Cambodia",
+			"imageUrl": "https://fastly.picsum.photos/id/849/500/300.jpg?hmac=7UePhWWqNd8HnGdCmoblpw1AKZK9kv_Hnf290dKlTHw",
+			"description": "A UNESCO World Heritage site and the largest religious monument in the world."
+		},
+		{
+			"id": 2,
+			"name": "Taj Mahal, India",
+			"imageUrl": "https://fastly.picsum.photos/id/827/500/300.jpg?hmac=56akje7HYnyUoBQVJOAYEaMLwuDZfqcdfQZevQf2Ok0",
+			"description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+		}
+	],
+	"beaches": [
+		{
+			"id": 1,
+			"name": "Bora Bora, French Polynesia",
+			"imageUrl": "https://fastly.picsum.photos/id/537/500/300.jpg?hmac=pwDQHy5AfKC9cRzKJFqZ-2A40ExdclBcuGg8L_t0aWI",
+			"description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+		},
+		{
+			"id": 2,
+			"name": "Copacabana Beach, Brazil",
+			"imageUrl": "https://fastly.picsum.photos/id/950/500/300.jpg?hmac=mbou0gcyYUx1ojYu5jIlu71_6y9AjCGhO4LxgPzhM8o",
+			"description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+		}
+	]
+}
